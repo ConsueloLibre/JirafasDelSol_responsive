@@ -1,0 +1,84 @@
+@media(min-width:1px) and (max-width:551px){
+  [class*="col-"]{
+    width: 100%
+  }
+  #first{
+    background:grey;
+    height: 25em;
+    box-sizing: border-box;
+    /*background-size: 100%;
+    background-repeat: no-repeat;
+    */
+  }
+  ul{
+  content: url(../images/menu-512.png);
+  margin-left: 13em;
+  margin-top: -3em;
+  }
+}
+@media(min-width:1px) and (max-width:399px){
+  [class*="col-"]{
+    width: 100%
+  }
+  h2.down_title {
+
+    color: #ffc30f;
+    font-size: 1em;
+}
+}
+@media(min-width:1px) and (max-width:687px){
+  [class*="col-"]{
+    width: 100%
+  }
+  #second {
+    background: #FFC107;
+
+    font-size: 1em;
+    box-sizing: border-box;
+    display: inline-block;
+
+  }
+}
+
+@media(min-width:1px) and (max-width:1000px){
+  [class*="col-"]{
+    width: 100%
+  }
+  .col-12.we {
+    box-sizing: border-box;
+  }
+}
+
+@media(min-width:552px) and (max-width:999px){
+  [class*="col-"]{
+    width: 100%
+  }
+  .col-12.we {
+    box-sizing: border-box;
+  }
+  ul{
+    visibility: hidden;
+  }
+
+
+}
+@media(min-width:1px) and (max-width:999px){
+  [class*="col-"]{
+    width: 100%
+  }
+  .fotis{
+    box-sizing: border-box;
+    text-align: center;
+    border: solid;
+  }
+  .fotis_2{
+    box-sizing: border-box;
+    text-align: center;
+    border: solid;
+  }
+  .fotis_3{
+    box-sizing: border-box;
+    text-align: center;
+    border: solid;
+  }
+}

@@ -1,0 +1,223 @@
+/*font-family: 'Cherry Swash', cursive;
+font-family: 'Waiting for the Sunrise', cursive;
+font-family: 'Frijole', cursive;
+font-family: 'Cherry Cream Soda', cursive;*/
+
+header{
+  background:#5a4545;
+  width: 100%;
+  heigth:10%;
+  color:white;
+  font-family: 'Cherry Swash';
+  box-sizing: border-box;
+}
+h3.boot {
+    margin-left: 2em;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+  padding-left: 15em;
+
+
+
+}
+#first{
+  background-image:url(../images/back.jpg);
+  height: auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}
+h1.title {
+  font-family: 'Cherry Cream Soda';
+    color: white;
+    font-size: 6em;
+}
+h2.down_title {
+    font-family: 'Cherry Cream Soda', cursive;
+    color: black;
+    font-size: 3em;
+}
+.primero {
+    text-align: center;
+}
+section#second {
+    background: #FFC107;
+    font-family: 'Cherry Swash', cursive;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+.we {
+    text-align: center;
+    border: solid;
+    padding-bottom: 1em;
+}
+.we2 {
+    text-align: center;
+    border: solid;
+    padding-bottom: 6em;
+}
+.contact_us {
+  padding-left: 43em;
+    margin-top: -17em;
+}
+button.btn {
+    font-size: 1em;
+    width: 7em;
+    height: 3em;
+    border: solid black;
+border-radius: 28px 28px 28px 28px;
+}
+img {
+  width: 16em;
+  height: 14em;
+  margin-left: 2em;
+  margin-top: 6em;
+    border: solid black 13px;
+    box-sizing: border-box;
+}
+h2#third_title {
+    padding-left: 1em;
+    font-size: 2em;
+    font-family: 'Cherry Swash', cursive;
+    box-sizing: border-box;
+}
+p#third_text {
+  font-size: 1em;
+  padding-left: 2em;
+  font-weight: 600;
+  box-sizing: border-box;
+}
+button {
+  font-size: 1em;
+  width: 7em;
+  height: 2em;
+  border: solid black 2px;
+  border-radius: 28px 28px 28px 28px;
+  margin-left: 2em;
+  margin-top: 2em;
+}
+footer{
+  background:#5a4545;
+  width: 100%;
+  heigth:2em;
+  color:white;
+  box-sizing: border-box;
+}
+h5 {
+    font-size: 1em;
+    font-weight: 100;
+    text-align: center;
+}
+/*header {
+    background: #5a4545;
+    width: 100%;
+    height: 80px;
+    color: white;
+
+}
+footer{
+  background: #5a4545;
+  width: 100%;
+  height: 200px;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  padding: 13px;
+
+}
+ul {
+    margin-left: 877px;
+    font-size: 31px;
+
+}
+h5 {
+    font-size: 31px;
+    margin-left: 1310px;
+    margin-top: 50px;
+}
+section#first {
+    background: #ffc30f;
+    width: 100%;
+    height: 400px;
+    margin-top:-10px ;
+    margin-left: -12px;
+}
+h3.boot {
+    font-size: 41px;
+    margin-left: 84px;
+}
+h1.title {
+    color: #900c3f;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-weight: 600;
+    font-size: 186px;
+    text-align: center;
+}
+h2.down_title {
+    font-family: 'Cherry Swash', cursive;
+    color: white;
+    font-size: 58px;
+    text-align: center;
+    margin-top: -19px;
+}
+h2.do {
+    font-family: 'Frijole', cursive;
+    font-size: 39px;
+    color: #c70039;
+}
+.col-8 {
+    padding-left: 479px;
+}
+h2.contact {
+    font-family: 'Frijole', cursive;
+    font-size: 39px;
+    color: #c70039;
+}
+p.what {
+    font-size: 39px;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-weight: 700;
+    line-height: 30px;
+    color: white;
+  }
+  p.Ven {
+    font-size: 39px;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-weight: 700;
+    line-height: 30px;
+    color: white;
+}
+section#second {
+    background: #ff5733;
+    width: 100%
+}
+img{
+  object-fit: cover;
+    width: 300px;
+    height: 200px;
+
+}
+.col-4.fotis {
+    padding-left: 356px;
+    padding-top: 74px;
+}
+button {
+    width: 164px;
+    height: 64px;
+    font-size: 32px;
+    border-radius: 21px 21px 21px 21px;
+}
+#third{
+  background: #ffc30f;
+font-family: 'Cherry Swash', cursive;
+color: #900c3f;
+font-size: 20px;
+}*/
